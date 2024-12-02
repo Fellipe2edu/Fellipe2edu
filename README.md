@@ -26,4 +26,3 @@ Atualmente, estou expandindo minhas habilidades com Python e Machine Learning, c
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-![BI](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=bi&labelColor=0D1117)&nbsp;
