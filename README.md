@@ -13,10 +13,15 @@ Atualmente, estou expandindo minhas habilidades com Python e Machine Learning, c
 ## 🛠️ Habilidades
 
 -Big Data: Processamento de grandes volumes de dados com Teradata.
+
 -BI & SQL: Desenvolvimento de relatórios, painéis e consultas SQL para extração de dados e análise.
+
 -SSIS (SQL Server Integration Services): Criação de fluxos de ETL (Extração, Transformação e Carga).
+
 -SAS Guide: Análise estatística e automação de relatórios usando o SAS.
+
 -Teradata: Gerenciamento e análise de dados com o Teradata.
+
 -Python & Machine Learning: Em processo de aprendizado e implementação de algoritmos de Machine Learning para análise preditiva e automação de processos.
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
