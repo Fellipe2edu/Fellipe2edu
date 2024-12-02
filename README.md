@@ -2,7 +2,7 @@
 
 🔍 Analista Senior em Big Data | BI | SQL | SSIS | SAS GUIDE | TERADATA  
 📚 Aprendendo Python e Machine Learning 
-📚 ESTUDADO Ciência de DADOS
+📚 ESTUDANDO CIENCIA DE DADOS
 
 ## 🚀 Sobre mim
 
