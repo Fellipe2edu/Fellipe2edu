@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou Fellipe Eduardo
 
 🔍 Analista Senior em Big Data | BI | SQL | SSIS | SAS GUIDE | TERADATA  
-📚 Aprendendo Python e Machine Learning 
-
+📚 Aprendendo Python e Machine Learning
 📚 ESTUDANDO CIENCIA DE DADOS
 
 ## 🚀 Sobre mim
