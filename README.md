@@ -1,4 +1,4 @@
-# 👋<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ola!%20I'm%20Fellipe%20Eduardo!&section=header&fontAlign=50&animation=fadeIn&fontAlignY=35&fontSize=45"/> 
+# 👋<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ola!%20%20Fellipe%20Eduardo!&section=header&fontAlign=50&animation=fadeIn&fontAlignY=35&fontSize=45"/> 
 🔍 Analista Senior em Big Data | BI | SQL | SSIS | SAS GUIDE | TERADATA  
 📚 Aprendendo Python e Machine Learning
 📚 ESTUDANDO CIENCIA DE DADOS
