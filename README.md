@@ -1,5 +1,4 @@
-# 👋 Olá, eu sou Fellipe Eduardo
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20I'm%20Davi%20Rodrigues!&section=header&fontAlign=50&animation=fadeIn&fontAlignY=35&fontSize=45"/> 
+# 👋<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ola!%20I'm%20Fellipe%20Eduardo!&section=header&fontAlign=50&animation=fadeIn&fontAlignY=35&fontSize=45"/> 
 🔍 Analista Senior em Big Data | BI | SQL | SSIS | SAS GUIDE | TERADATA  
 📚 Aprendendo Python e Machine Learning
 📚 ESTUDANDO CIENCIA DE DADOS
