@@ -22,6 +22,6 @@ Atualmente, estou expandindo minhas habilidades com Python e Machine Learning, c
 -Teradata: Gerenciamento e análise de dados com o Teradata.
 
 -Python & Machine Learning: Em processo de aprendizado e implementação de algoritmos de Machine Learning para análise preditiva e automação de processos.
-
+<img width=100% src='https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer'/>
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
